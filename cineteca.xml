@@ -8,9 +8,15 @@
 	<year>1964</year>
 </film>
 <film>
+<<<<<<< HEAD
 	<title>Psycho</title>
 	<director>Alfred Hitchcock</director>
 	<year>1960</year>
+=======
+	<title>La Vita è Bella</title>
+	<director>R. Benigni</director>
+	<year>1998</year>
+>>>>>>> 06013677e48c30b794398de21874d501e8786a82
 </film>
 <film>
 	<title>Il Re Leone</title>
