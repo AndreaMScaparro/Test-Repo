@@ -3,19 +3,23 @@
 
 <cineteca>
 <film>
-	<title>Onibaba</title>
-	<director>Kaneto Shindo</director>
-	<year>1964</year>
-</film>
-<film>
-	<title>La Vita è Bella</title>
-	<director>R. Benigni</director>
+	<title>7 anni in Tibet</title>
+	<director>ND</director>
 	<year>1998</year>
 </film>
 <film>
-	<title>Il Re Leone</title>
-	<director>Disney</director>
-	<year>1999</year>
+	<title>Blade Runner</title>
+	<director>R. Scott</director>
+	<year>1982</year>
 </film>
-
+<film>
+	<title>Gran Torino</title>
+	<director>C. Eastwood</director>
+	<year>2008</year>
+</film>
+<film>
+	<title>The Mule</title>
+	<director>C. Eastwood</director>
+	<year>2019</year>
+</film>
 </cineteca>
