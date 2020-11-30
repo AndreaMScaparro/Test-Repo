@@ -17,5 +17,15 @@
 	<director>Hayao Miyazaki</director>
 	<year>2001</year>
 </film>
+<film>
+	<title>Akira</title>
+	<director>Katsuhiro Otomo</director>
+	<year>1988</year>
+</film>
+<film>
+	<title>Mad Max: Fury Road</title>
+	<director>George Miller</director>
+	<year>2018</year>
+</film>
 
 </cineteca>
