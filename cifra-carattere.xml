@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<esercizio>
+	<car>A</car>
+	<car>B</car>
+	<car>C</car>
+	<car>D</car>
+	<car>E</car>
+	<car>F</car>
+	<num>1</num>
+	<num>2</num>
+	<car>G</car>
+	<num>3</num>
+	<num>4</num>
+	<car>H</car>
+	<num>5</num>
+	<num>6</num>
+	<num>7</num>
+	<car>I</car>
+</esercizio>
+
