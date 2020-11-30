@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cineteca.xslt"?>
+
+<cineteca>
+<film>
+	<title>Kiss Me Deadly</title>
+	<director>Robert Aldrich</director>
+	<year>1955</year>
+</film>
+<film>
+	<title>Things To Come</title>
+	<director>H. G. Wells</director>
+	<year>1936</year>
+</film>
+<film>
+	<title>City Lights</title>
+	<director>Charlie Chaplin</director>
+	<year>1931</year>
+</film>
+
+</cineteca>
