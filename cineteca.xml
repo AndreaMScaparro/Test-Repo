@@ -8,9 +8,9 @@
 	<year>1959</year>
 </film>
 <film>
-	<title>La Vita è Bella</title>
-	<director>R. Benigni</director>
-	<year>1998</year>
+	<title>Blade Runner</title>
+	<director>R. Scott</director>
+	<year>1982</year>
 </film>
 <film>
 	<title>La città incantata</title>
@@ -27,5 +27,14 @@
 	<director>George Miller</director>
 	<year>2018</year>
 </film>
-
+<film>
+	<title>Gran Torino</title>
+	<director>C. Eastwood</director>
+	<year>2008</year>
+</film>
+<film>
+	<title>The Mule</title>
+	<director>C. Eastwood</director>
+	<year>2019</year>
+</film>
 </cineteca>
