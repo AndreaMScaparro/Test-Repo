@@ -14,10 +14,22 @@ ii)  Apportate le modifiche faccio lo stage: git add nome_file
 iii) Faccio il commit: git commit -m '...'
 iv)  Faccio il push per aggiornare il mondo: git push origin branch_name
 
-     << PARTE 3: ANDREA PUZZA >>
-i) Salutare Andrea
-ii) Informarsi sul suo stato di salute
-iii) Lavorare
-iv) Smadonnare sugli esercizi
-v) Prova 1
-vi) Prova 2
+
+     << PARTE 3: BRANCHING E MERGING >>
+
+I)   Creo una nuova branch: git branch nome_new_branch
+II)  Mi sposto nella nuova branch: git checkout nome_new_branch
+III) Per controllare branches: git log
+IV)  Stage e commit nella nuova branch
+V)   Torno nella branch principale: git checkout nome_branch_default
+VI)  Faccio il merge: git merge nome_new_branch
+
+     << PARTE 4: REBASE INTERATTIVO >>
+
+1) Prova 1
+2)
+
+
+
+
+
