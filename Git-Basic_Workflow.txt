@@ -28,6 +28,7 @@ VI)  Faccio il merge: git merge nome_new_branch
 
 1) Prova 1
 2) Prova 2
+3) Prova 3
 
 
 
