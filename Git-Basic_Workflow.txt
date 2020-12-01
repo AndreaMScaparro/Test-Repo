@@ -13,3 +13,8 @@ i)   Faccio il Pull per aggiornare la Repo locale
 ii)  Apportate le modifiche faccio lo stage: git add nome_file
 iii) Faccio il commit: git commit -m '...'
 iv)  Faccio il push per aggiornare il mondo: git push origin branch_name
+
+     << PARTE 3: ANDREA PUZZA >>
+i) Salutare Andrea
+ii) Informarsi sul suo stato di salute
+iii) Lavorare
