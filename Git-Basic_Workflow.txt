@@ -23,4 +23,10 @@ IV)  Stage e commit nella nuova branch
 V)   Torno nella branch principale: git checkout nome_branch_default
 VI)  Faccio il merge: git merge nome_new_branch
 
+     << PARTE 4: REBASE INTERATTIVO >>
+
+1)   To Do
+
+
+
 
