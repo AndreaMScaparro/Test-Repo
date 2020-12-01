@@ -1,3 +1,15 @@
-<<< PARTE 1: CREAZIONE REPOSITORY REMOTA E CLONAZIONE IN LOCALE >>>
+     <<< PARTE 1: CREAZIONE REPOSITORY REMOTA E CLONAZIONE IN LOCALE >>>
 
-a) 
+a)   Creo una "New Repository" su Git-Hub
+b)   Aggiungo i colleghi alla Repo: Settings -> Manage Access
+c)   Dalla Git Bash mi sposto nella cartella in cui voglio salvare la Repo localmente
+d)   Clono la Repo di Git-Hub in locale: git clone https://....
+     (per visualizzare l'URL della Repo su git-hub: tasto verde Code, copia link)
+e)   Create la Repo locale posso procedere a staging e committing
+
+     << PARTE 2: STAGING E COMMITTING >>
+
+i)   Faccio il Pull per aggiornare la Repo locale
+ii)  Apportate le modifiche faccio lo stage: git add nome_file
+iii) Faccio il commit: git commit -m '...'
+iv)  Faccio il push per aggiornare il mondo: git push origin branch_name
