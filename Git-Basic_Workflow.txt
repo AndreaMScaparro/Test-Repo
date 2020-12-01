@@ -30,7 +30,9 @@ VI)  Faccio il merge: git merge nome_new_branch
 2) Prova 2
 3) Prova 3
 
-
-
+     << PARTE 5: COMANDI EDITOR VIM >>
+1) Per entrare in modalità INSERT, e poter di conseguenza editare la lista di commit, premi il tasto "Ins" della tastiera.
+2)Per eliminare un carattere, portare l'indicatore all'altezza desiderata e premere il tasto "x" sulla tastiera.
+3)Per tornare in modalità NORMALE, ed essere quindi in grado di inserire i comandi di Vim, premere "Esc" sulla tastiera.
 
 
