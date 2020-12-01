@@ -18,3 +18,4 @@ iv)  Faccio il push per aggiornare il mondo: git push origin branch_name
 i) Salutare Andrea
 ii) Informarsi sul suo stato di salute
 iii) Lavorare
+iv) Smadonnare sugli esercizi
