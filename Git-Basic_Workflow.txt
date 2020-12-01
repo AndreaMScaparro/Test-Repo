@@ -27,7 +27,7 @@ VI)  Faccio il merge: git merge nome_new_branch
      << PARTE 4: REBASE INTERATTIVO >>
 
 1) Prova 1
-2)
+2) Prova 2
 
 
 
