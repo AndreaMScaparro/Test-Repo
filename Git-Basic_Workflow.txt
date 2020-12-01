@@ -26,9 +26,12 @@ VI)  Faccio il merge: git merge nome_new_branch
 
      << PARTE 4: REBASE INTERATTIVO >>
 
-1) Prova 1
-2) Prova 2
-3) Prova 3
+1)   Dal branch principale faccio un numero >1 di stage e commit (senza push)
+2)   Controllo i commit con il comando: git log --oneline
+3)   Per effettuare un rebase interattivo: git rebase -i
+3.1) Per selezionare un particolare commit: git rebase -i id_commit
+     (l'id_commit del commit lo vedo con git log)
+4)   Usare i comandi Vim per modifiche e salvataggio
 
 
 
